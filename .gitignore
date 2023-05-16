@@ -1,3 +1,6 @@
+# Modules
+config.py
+
 # VSCode
 .vscode/*
 !.vscode/settings.json
@@ -20,15 +23,6 @@
 # Private Node Modules
 node_modules/
 creds.js
-
-# Private Files
-*.json
-*.csv
-*.csv.gz
-*.tsv
-*.tsv.gz
-*.xlsx
-
 
 # Mac/OSX
 .DS_Store
